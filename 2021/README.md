@@ -10,13 +10,9 @@
 This repository is a collection of repositories with the solutions to the challenges proposed by [@midudev](https://midu.dev/) through [adventJS](https://adventjs.dev/).
 My solutions to [25 s Script challenges](https://2021.adventjs.dev/) (2021 edition) by [@midudev](https://twitter.com/midudev).
 
----
-
 ## 🎈 Difficulty:
 
 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
-
----
 
 ## 🕹️ Challenges
 
